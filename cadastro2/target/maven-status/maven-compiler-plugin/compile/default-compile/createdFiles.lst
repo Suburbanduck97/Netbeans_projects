@@ -1,0 +1,8 @@
+com\mycompany\cadastro2\dao\PessoaDAO.class
+com\mycompany\cadastro2\view\MainWIndow$2.class
+com\mycompany\cadastro2\controle\PessoaControle.class
+com\mycompany\cadastro2\modelo\Pessoa.class
+com\mycompany\cadastro2\conexao\ConexaoMySQL.class
+com\mycompany\cadastro2\view\MainWIndow$1.class
+com\mycompany\cadastro2\view\MainWIndow.class
+com\mycompany\cadastro2\Cadastro2.class
